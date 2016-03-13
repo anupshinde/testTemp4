@@ -3,3 +3,4 @@ timestamp,client_id,domain,change_description,target,owner
 2016-02-25T20:20:27.566000+02:00,xyz,www.xyz.com,Initial set of Newton rules,production,user1
 2016-02-27T19:24:27.566000+02:00,xyz,www.xyz.com,correcting Newton canonicals,production,user1
 2016-03-04T07:35:27.566000+02:00,xyz,www.xyz.com,correcting Newton index.html and trailing slashes,production,user1
+2016-03-13T12:25:09.011030+0:00,efd,www.electricfireplacesdirect.com,"Testing again with new line",staging,anupshinde@gmail.com
