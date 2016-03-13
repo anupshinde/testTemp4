@@ -10,3 +10,7 @@ timestamp,client_id,domain,change_description,target,owner
 2016-03-13T12:12:49.085087+0:00,ibm,www.ibm.com,"test comments for changes",staging,anupshinde@gmail.com
 2016-03-13T12:13:33.325980+0:00,efd,www.electricfireplacesdirect.com,"Another test again... 123
 And with new line",staging,anupshinde@gmail.com
+2016-03-13T12:18:42.740640+0:00,efd,www.electricfireplacesdirect.com,"Another staging change...123
+with new line....this should be fixed into a single line now. Also should fix "
+
+And this too",staging,anupshinde@gmail.com
