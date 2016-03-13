@@ -6,3 +6,4 @@ timestamp,client_id,domain,change_description,target,owner
 2016-03-13T12:03:53.611887+0:00,ibm,www.ibm.com,"test comments for changes",staging,anupshinde@gmail.com
 2016-03-13T12:06:01.957980+0:00,sasrx,www.sasrxmedical.com,"test temp 4 (new)",staging,anupshinde@gmail.com
 2016-03-13T12:08:55.564632+0:00,ibm,www.ibm.com,"test comments for changes",staging,anupshinde@gmail.com
+2016-03-13T12:10:30.842730+0:00,efd,www.electricfireplacesdirect.com,"One more test from Add-on script",staging,anupshinde@gmail.com
