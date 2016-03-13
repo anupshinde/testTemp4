@@ -1,0 +1,27 @@
+clients:
+    ibm:
+        www.ibm.com:
+            staging:
+                spreadsheet_title: ibm-analytics-seo-rules-manual
+            production:
+                spreadsheet_title: ibm-analytics-seo-rules-manual
+    gurveys:
+        www.gurveys.com:
+            staging:
+                spreadsheet_title: gurveys-analytics-seo-rules-manual
+    mantels:
+        www.mantelsdirect.com:
+            staging:
+                spreadsheet_title: mantels-seo-rules-manual
+
+    efd:
+        www.electricfireplacesdirect.com:
+            staging:
+                spreadsheet_title: efd-seo-rules-manual
+
+    sasrx:
+        www.sasrxmedical.com:
+            staging:
+                spreadsheet_title: sasrxmedical-seo-rules-manual
+rules:
+    rules_s3_prefix: ranksense/rules
