@@ -8,3 +8,4 @@ timestamp,client_id,domain,change_description,target,owner
 2016-03-13T16:49:26.131640+0:00,ibm,www.ibm.com,"new test2",staging,anupshinde@gmail.com
 2016-05-02T16:55:21.606370+0:00,ibm,www.ibm.com,"test",production,anupshinde@hamletbatista.com
 2016-05-02T18:03:22.625940+0:00,mantels,www.mantelsdirect.com,"test",staging,anupshinde@hamletbatista.com
+2016-05-02T18:25:26.934320+0:00,mantels,www.mantelsdirect.com,"test after renaming project and changing ownership",staging,anupshinde@hamletbatista.com
