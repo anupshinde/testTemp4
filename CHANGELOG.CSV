@@ -10,3 +10,4 @@ timestamp,client_id,domain,change_description,target,owner
 2016-05-02T18:03:22.625940+0:00,mantels,www.mantelsdirect.com,"test",staging,anupshinde@hamletbatista.com
 2016-05-02T18:25:26.934320+0:00,mantels,www.mantelsdirect.com,"test after renaming project and changing ownership",staging,anupshinde@hamletbatista.com
 2016-05-03T01:36:01.839100+0:00,efd,www.electricfireplacesdirect.com,"testing",staging,hamletb@hamletbatista.com
+2016-05-03T20:11:07.010110+0:00,efd,www.electricfireplacesdirect.com,"Testing so Bend can see it working",staging,hamletb@hamletbatista.com
