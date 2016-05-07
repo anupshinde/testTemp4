@@ -5,23 +5,115 @@ clients:
                 spreadsheet_title: ibm-analytics-seo-rules-manual
             production:
                 spreadsheet_title: ibm-analytics-seo-rules-manual
-    gurveys:
-        www.gurveys.com:
+        www-935.ibm.com:
             staging:
-                spreadsheet_title: gurveys-analytics-seo-rules-manual
-    mantels:
+                spreadsheet_title: ibm-935-seo-rules-manual
+            production:
+                spreadsheet_title: ibm-935-seo-rules-manual
+
+    renovationbrands:
         www.mantelsdirect.com:
             staging:
                 spreadsheet_title: mantels-seo-rules-manual
+            production:
+                spreadsheet_title: mantels-seo-rules-manual
 
-    efd:
+        www.electricfireplacescanada.ca:
+            staging:
+                spreadsheet_title: electricfireplacesca-seo-rules-manual
+            production:
+                spreadsheet_title: electricfireplacesca-seo-rules-manual
+
         www.electricfireplacesdirect.com:
             staging:
                 spreadsheet_title: efd-seo-rules-manual
+            production:
+                spreadsheet_title: efd-seo-rules-manual
 
+        electricheatsource.com:
+            staging:
+                spreadsheet_title: electricheatsource-seo-rules-manual
+            production:
+                spreadsheet_title: electricheatsource-seo-rules-manual
+        www.americantinceilings.com:
+            staging:
+                spreadsheet_title: atc-seo-rules-manual
+            production:
+                spreadsheet_title: atc-seo-rules-manual
+        www.reggioregister.com:
+            staging:
+                spreadsheet_title: reggio-seo-rules-manual
+            production:
+                spreadsheet_title: reggio-seo-rules-manual                
     sasrx:
         www.sasrxmedical.com:
             staging:
                 spreadsheet_title: sasrxmedical-seo-rules-manual
+            production:
+                spreadsheet_title: sasrxmedical-seo-rules-manual
+
+    vacationrentalpros:
+        www.vacationrentalpros.com:
+            staging:
+                spreadsheet_title: vacationrentalpros-seo-rules-manual
+            production:
+                spreadsheet_title: vacationrentalpros-seo-rules-manual
+        m.vacationrentalpros.com:
+            staging:
+                spreadsheet_title: m-vacationrentalpros-seo-rules-manual
+            production:
+                spreadsheet_title: m-vacationrentalpros-seo-rules-manual
+    garrettwade:
+        www.garrettwade.com:
+            staging:
+                spreadsheet_title: garrettwade-seo-rules-manual
+            production:
+                spreadsheet_title: garrettwade-seo-rules-manual
+    ssww:
+        www.ssww.com:
+            staging:
+                spreadsheet_title: ssww-seo-rules-manual
+            production:
+                spreadsheet_title: ssww-seo-rules-manual
+    tasca:
+        www.newautoparts.com:
+            staging:
+                spreadsheet_title: newautoparts-seo-rules-manual
+            production:
+                spreadsheet_title: newautoparts-seo-rules-manual
+    1aauto:
+        www.am-autoparts.com:
+            staging:
+                spreadsheet_title: am-autoparts-seo-rules-manual
+            production:
+                spreadsheet_title: am-autoparts-seo-rules-manual
+        www.am-autopartsqa.com:
+            staging:
+                spreadsheet_title: am-autopartsqa-seo-rules-manual
+            production:
+                spreadsheet_title: am-autopartsqa-seo-rules-manual
+    acpideas:
+        www.backsplashideas.com:
+            staging:
+                spreadsheet_title: backsplashideas-seo-rules-manual
+            production:
+                spreadsheet_title: backsplashideas-seo-rules-manual
+        yourceiling.com:
+            staging:
+                spreadsheet_title: yourceiling-seo-rules-manual
+            production:
+                spreadsheet_title: yourceiling-seo-rules-manual               
+    leonisa:
+        www.leonisa.com:
+            staging:
+                spreadsheet_title: leonisa-seo-rules-manual
+            production:
+                spreadsheet_title: leonisa-seo-rules-manual
+    marco:
+        m.marcopromotionalproducts.com:
+            staging:
+                spreadsheet_title: m-marcopromotionalproducts-seo-rules-manual
+            production:
+                spreadsheet_title: m-marcopromotionalproducts-seo-rules-manual
 rules:
     rules_s3_prefix: ranksense/rules
