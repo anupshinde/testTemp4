@@ -1,57 +1,17 @@
 clients:
     ibm:
-        www.ibm.com:
-            staging:
-                spreadsheet_title: ibm-analytics-seo-rules-manual
-            production:
-                spreadsheet_title: ibm-analytics-seo-rules-manual
-        www-935.ibm.com:
-            staging:
-                spreadsheet_title: ibm-935-seo-rules-manual
-            production:
-                spreadsheet_title: ibm-935-seo-rules-manual
-
-    renovationbrands:
-        www.mantelsdirect.com:
-            staging:
-                spreadsheet_title: mantels-seo-rules-manual
-            production:
-                spreadsheet_title: mantels-seo-rules-manual
-
-        www.electricfireplacescanada.ca:
-            staging:
-                spreadsheet_title: electricfireplacesca-seo-rules-manual
-            production:
-                spreadsheet_title: electricfireplacesca-seo-rules-manual
-
-        www.electricfireplacesdirect.com:
-            staging:
-                spreadsheet_title: efd-seo-rules-manual
-            production:
-                spreadsheet_title: efd-seo-rules-manual
-
-        electricheatsource.com:
-            staging:
-                spreadsheet_title: electricheatsource-seo-rules-manual
-            production:
-                spreadsheet_title: electricheatsource-seo-rules-manual
-        www.americantinceilings.com:
-            staging:
-                spreadsheet_title: atc-seo-rules-manual
-            production:
-                spreadsheet_title: atc-seo-rules-manual
-        www.reggioregister.com:
-            staging:
-                spreadsheet_title: reggio-seo-rules-manual
-            production:
-                spreadsheet_title: reggio-seo-rules-manual                
     sasrx:
         www.sasrxmedical.com:
             staging:
                 spreadsheet_title: sasrxmedical-seo-rules-manual
             production:
                 spreadsheet_title: sasrxmedical-seo-rules-manual
-
+    royalrobbins:
+        www.royalrobbins.com:
+            staging:
+                spreadsheet_title: royalrobbins-seo-rules-manual
+            production:
+                spreadsheet_title: royalrobbins-seo-rules-manual
     vacationrentalpros:
         www.vacationrentalpros.com:
             staging:
@@ -63,6 +23,11 @@ clients:
                 spreadsheet_title: m-vacationrentalpros-seo-rules-manual
             production:
                 spreadsheet_title: m-vacationrentalpros-seo-rules-manual
+        www.hiltonheadvacation.com:
+            staging:
+                spreadsheet_title: hiltonheadvacation-seo-rules-manual
+            production:
+                spreadsheet_title: hiltonheadvacation-seo-rules-manual                
     garrettwade:
         www.garrettwade.com:
             staging:
@@ -115,5 +80,12 @@ clients:
                 spreadsheet_title: m-marcopromotionalproducts-seo-rules-manual
             production:
                 spreadsheet_title: m-marcopromotionalproducts-seo-rules-manual
+    moreflavor:
+        www.morebeer.com:
+            staging:
+                spreadsheet_title: morebeer-seo-rules-manual
+            production:
+                spreadsheet_title: morebeer-seo-rules-manual    
+
 rules:
     rules_s3_prefix: ranksense/rules
