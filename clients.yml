@@ -1,17 +1,29 @@
 clients:
     ibm:
+        www.ibm.com:
+            staging:
     sasrx:
         www.sasrxmedical.com:
             staging:
                 spreadsheet_title: sasrxmedical-seo-rules-manual
             production:
                 spreadsheet_title: sasrxmedical-seo-rules-manual
+        www.sasrx.com:
+            staging:
+                spreadsheet_title: sasrx-seo-rules-manual
+            production:
+                spreadsheet_title: sasrx-seo-rules-manual        
     royalrobbins:
         www.royalrobbins.com:
             staging:
                 spreadsheet_title: royalrobbins-seo-rules-manual
             production:
                 spreadsheet_title: royalrobbins-seo-rules-manual
+        goeverywhere.royalrobbins.com:
+            staging:
+                spreadsheet_title: goeverywhere-royalrobbins-seo-rules-manual
+            production:
+                spreadsheet_title: goeverywhere-royalrobbins-seo-rules-manual        
     vacationrentalpros:
         www.vacationrentalpros.com:
             staging:
@@ -85,7 +97,13 @@ clients:
             staging:
                 spreadsheet_title: morebeer-seo-rules-manual
             production:
-                spreadsheet_title: morebeer-seo-rules-manual    
+                spreadsheet_title: morebeer-seo-rules-manual
+    gumps:
+        www.gumps.com:
+            staging:
+                spreadsheet_title: gumps-seo-rules-manual
+            production:
+                spreadsheet_title: gumps-seo-rules-manual            
 
 rules:
     rules_s3_prefix: ranksense/rules
