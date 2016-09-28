@@ -1,4 +1,7 @@
 clients:
+    ibm:
+        www.ibm.com:
+            staging:
     sasrx:
         www.sasrxmedical.com:
             staging:
